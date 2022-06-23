@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CodeDLL.cpp
+e:\大三下\.net\mltest\login_clr\codedll\codedll.h(12): warning C4018: “<”: 有符号/无符号不匹配
+e:\大三下\.net\mltest\login_clr\codedll\codedll.h(24): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  CodeDLL.vcxproj -> E:\大三下\.NET\MLtest\login_CLR\Debug\CodeDLL.dll
